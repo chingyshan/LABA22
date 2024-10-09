@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task5.dir/__/Task_5/Task_5.cpp.o -o task5  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a

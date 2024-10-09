@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Task9.dir/Task_9/Task_9.cpp.o -o Task9  lib/libgtest.a

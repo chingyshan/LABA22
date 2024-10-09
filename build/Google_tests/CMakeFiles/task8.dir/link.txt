@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task8.dir/__/Task_8/Task_8.cpp.o -o task8  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a
